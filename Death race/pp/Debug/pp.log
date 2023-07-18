@@ -1,0 +1,48 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(534,5): warning MSB8028: El directorio intermedio (Debug\) contiene archivos compartidos de otro proyecto (pp.vcxproj). Esto puede dar lugar a un comportamiento incorrecto de limpieza y recompilación.
+  DeathRace.cpp
+C:\Users\Admin\OneDrive - Estudiantes ITCR\Escritorio\Estructura\Proyecto DeathRace\DeathraceV2\pp\pp\Funciones.h(25,30): warning C4081: se esperaba 'newline'; se encontró ';'
+C:\Users\Admin\OneDrive - Estudiantes ITCR\Escritorio\Estructura\Proyecto DeathRace\DeathraceV2\pp\pp\Funciones.h(217,8): warning C4102: 'defult': etiqueta sin referencia
+C:\Users\Admin\OneDrive - Estudiantes ITCR\Escritorio\Estructura\Proyecto DeathRace\DeathraceV2\pp\pp\Funciones.h(925,40): warning C4309: 'argumento': truncamiento de valor constante
+C:\Users\Admin\OneDrive - Estudiantes ITCR\Escritorio\Estructura\Proyecto DeathRace\DeathraceV2\pp\pp\Funciones.h(926,42): warning C4309: 'argumento': truncamiento de valor constante
+C:\Users\Admin\OneDrive - Estudiantes ITCR\Escritorio\Estructura\Proyecto DeathRace\DeathraceV2\pp\pp\Funciones.h(928,40): warning C4309: 'argumento': truncamiento de valor constante
+C:\Users\Admin\OneDrive - Estudiantes ITCR\Escritorio\Estructura\Proyecto DeathRace\DeathraceV2\pp\pp\Funciones.h(929,42): warning C4309: 'argumento': truncamiento de valor constante
+C:\Users\Admin\OneDrive - Estudiantes ITCR\Escritorio\Estructura\Proyecto DeathRace\DeathraceV2\pp\pp\Funciones.h(932,40): warning C4309: 'argumento': truncamiento de valor constante
+C:\Users\Admin\OneDrive - Estudiantes ITCR\Escritorio\Estructura\Proyecto DeathRace\DeathraceV2\pp\pp\Funciones.h(933,42): warning C4309: 'argumento': truncamiento de valor constante
+C:\Users\Admin\OneDrive - Estudiantes ITCR\Escritorio\Estructura\Proyecto DeathRace\DeathraceV2\pp\pp\Funciones.h(935,40): warning C4309: 'argumento': truncamiento de valor constante
+C:\Users\Admin\OneDrive - Estudiantes ITCR\Escritorio\Estructura\Proyecto DeathRace\DeathraceV2\pp\pp\Funciones.h(936,42): warning C4309: 'argumento': truncamiento de valor constante
+C:\Users\Admin\OneDrive - Estudiantes ITCR\Escritorio\Estructura\Proyecto DeathRace\DeathraceV2\pp\pp\Funciones.h(939,40): warning C4309: 'argumento': truncamiento de valor constante
+C:\Users\Admin\OneDrive - Estudiantes ITCR\Escritorio\Estructura\Proyecto DeathRace\DeathraceV2\pp\pp\Funciones.h(940,42): warning C4309: 'argumento': truncamiento de valor constante
+C:\Users\Admin\OneDrive - Estudiantes ITCR\Escritorio\Estructura\Proyecto DeathRace\DeathraceV2\pp\pp\Funciones.h(942,40): warning C4309: 'argumento': truncamiento de valor constante
+C:\Users\Admin\OneDrive - Estudiantes ITCR\Escritorio\Estructura\Proyecto DeathRace\DeathraceV2\pp\pp\Funciones.h(943,42): warning C4309: 'argumento': truncamiento de valor constante
+C:\Users\Admin\OneDrive - Estudiantes ITCR\Escritorio\Estructura\Proyecto DeathRace\DeathraceV2\pp\pp\Juego.h(5,30): warning C4081: se esperaba 'newline'; se encontró ';'
+C:\Users\Admin\OneDrive - Estudiantes ITCR\Escritorio\Estructura\Proyecto DeathRace\DeathraceV2\pp\pp\Juego.h(372,44): warning C4309: 'argumento': truncamiento de valor constante
+C:\Users\Admin\OneDrive - Estudiantes ITCR\Escritorio\Estructura\Proyecto DeathRace\DeathraceV2\pp\pp\Juego.h(377,42): warning C4309: 'argumento': truncamiento de valor constante
+C:\Users\Admin\OneDrive - Estudiantes ITCR\Escritorio\Estructura\Proyecto DeathRace\DeathraceV2\pp\pp\Juego.h(378,44): warning C4309: 'argumento': truncamiento de valor constante
+C:\Users\Admin\OneDrive - Estudiantes ITCR\Escritorio\Estructura\Proyecto DeathRace\DeathraceV2\pp\pp\Juego.h(380,41): warning C4309: 'argumento': truncamiento de valor constante
+C:\Users\Admin\OneDrive - Estudiantes ITCR\Escritorio\Estructura\Proyecto DeathRace\DeathraceV2\pp\pp\Juego.h(381,43): warning C4309: 'argumento': truncamiento de valor constante
+C:\Users\Admin\OneDrive - Estudiantes ITCR\Escritorio\Estructura\Proyecto DeathRace\DeathraceV2\pp\pp\Juego.h(385,41): warning C4309: 'argumento': truncamiento de valor constante
+C:\Users\Admin\OneDrive - Estudiantes ITCR\Escritorio\Estructura\Proyecto DeathRace\DeathraceV2\pp\pp\Juego.h(386,43): warning C4309: 'argumento': truncamiento de valor constante
+C:\Users\Admin\OneDrive - Estudiantes ITCR\Escritorio\Estructura\Proyecto DeathRace\DeathraceV2\pp\pp\Juego.h(388,41): warning C4309: 'argumento': truncamiento de valor constante
+C:\Users\Admin\OneDrive - Estudiantes ITCR\Escritorio\Estructura\Proyecto DeathRace\DeathraceV2\pp\pp\Juego.h(389,43): warning C4309: 'argumento': truncamiento de valor constante
+C:\Users\Admin\OneDrive - Estudiantes ITCR\Escritorio\Estructura\Proyecto DeathRace\DeathraceV2\pp\pp\Juego.h(392,41): warning C4309: 'argumento': truncamiento de valor constante
+C:\Users\Admin\OneDrive - Estudiantes ITCR\Escritorio\Estructura\Proyecto DeathRace\DeathraceV2\pp\pp\Juego.h(393,43): warning C4309: 'argumento': truncamiento de valor constante
+C:\Users\Admin\OneDrive - Estudiantes ITCR\Escritorio\Estructura\Proyecto DeathRace\DeathraceV2\pp\pp\Juego.h(396,41): warning C4309: 'argumento': truncamiento de valor constante
+C:\Users\Admin\OneDrive - Estudiantes ITCR\Escritorio\Estructura\Proyecto DeathRace\DeathraceV2\pp\pp\Juego.h(397,43): warning C4309: 'argumento': truncamiento de valor constante
+C:\Users\Admin\OneDrive - Estudiantes ITCR\Escritorio\Estructura\Proyecto DeathRace\DeathraceV2\pp\pp\Juego.h(90,7): warning C4101: 'buffer2': variable local sin referencia
+C:\Users\Admin\OneDrive - Estudiantes ITCR\Escritorio\Estructura\Proyecto DeathRace\DeathraceV2\pp\pp\Juego.h(41,25): warning C4101: 'teclado': variable local sin referencia
+C:\Users\Admin\OneDrive - Estudiantes ITCR\Escritorio\Estructura\Proyecto DeathRace\DeathraceV2\pp\pp\Juego.h(437,8): warning C4101: 'letra': variable local sin referencia
+C:\Users\Admin\OneDrive - Estudiantes ITCR\Escritorio\Estructura\Proyecto DeathRace\DeathraceV2\pp\pp\DeathRace.cpp(27,30): warning C4081: se esperaba 'newline'; se encontró ';'
+C:\Users\Admin\OneDrive - Estudiantes ITCR\Escritorio\Estructura\Proyecto DeathRace\DeathraceV2\pp\pp\DeathRace.cpp(156,43): warning C4309: 'argumento': truncamiento de valor constante
+C:\Users\Admin\OneDrive - Estudiantes ITCR\Escritorio\Estructura\Proyecto DeathRace\DeathraceV2\pp\pp\DeathRace.cpp(157,43): warning C4309: 'argumento': truncamiento de valor constante
+C:\Users\Admin\OneDrive - Estudiantes ITCR\Escritorio\Estructura\Proyecto DeathRace\DeathraceV2\pp\pp\DeathRace.cpp(158,43): warning C4309: 'argumento': truncamiento de valor constante
+C:\Users\Admin\OneDrive - Estudiantes ITCR\Escritorio\Estructura\Proyecto DeathRace\DeathraceV2\pp\pp\DeathRace.cpp(159,43): warning C4309: 'argumento': truncamiento de valor constante
+C:\Users\Admin\OneDrive - Estudiantes ITCR\Escritorio\Estructura\Proyecto DeathRace\DeathraceV2\pp\pp\DeathRace.cpp(160,43): warning C4309: 'argumento': truncamiento de valor constante
+C:\Users\Admin\OneDrive - Estudiantes ITCR\Escritorio\Estructura\Proyecto DeathRace\DeathraceV2\pp\pp\DeathRace.cpp(196,45): warning C4309: 'argumento': truncamiento de valor constante
+C:\Users\Admin\OneDrive - Estudiantes ITCR\Escritorio\Estructura\Proyecto DeathRace\DeathraceV2\pp\pp\DeathRace.cpp(197,47): warning C4309: 'argumento': truncamiento de valor constante
+C:\Users\Admin\OneDrive - Estudiantes ITCR\Escritorio\Estructura\Proyecto DeathRace\DeathraceV2\pp\pp\DeathRace.cpp(201,45): warning C4309: 'argumento': truncamiento de valor constante
+C:\Users\Admin\OneDrive - Estudiantes ITCR\Escritorio\Estructura\Proyecto DeathRace\DeathraceV2\pp\pp\DeathRace.cpp(202,47): warning C4309: 'argumento': truncamiento de valor constante
+C:\Users\Admin\OneDrive - Estudiantes ITCR\Escritorio\Estructura\Proyecto DeathRace\DeathraceV2\pp\pp\DeathRace.cpp(243,45): warning C4309: 'argumento': truncamiento de valor constante
+C:\Users\Admin\OneDrive - Estudiantes ITCR\Escritorio\Estructura\Proyecto DeathRace\DeathraceV2\pp\pp\DeathRace.cpp(244,47): warning C4309: 'argumento': truncamiento de valor constante
+C:\Users\Admin\OneDrive - Estudiantes ITCR\Escritorio\Estructura\Proyecto DeathRace\DeathraceV2\pp\pp\Funciones.h(112): warning C4715: 'randomX': no todas las rutas de acceso de control devuelven un valor
+C:\Users\Admin\OneDrive - Estudiantes ITCR\Escritorio\Estructura\Proyecto DeathRace\DeathraceV2\pp\pp\Funciones.h(123): warning C4715: 'randomY': no todas las rutas de acceso de control devuelven un valor
+  pp.vcxproj -> C:\Users\Admin\OneDrive - Estudiantes ITCR\Escritorio\Estructura\Proyecto DeathRace\DeathraceV2\pp\Debug\DeathRace.exe

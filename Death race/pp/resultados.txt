@@ -1,0 +1,45 @@
+Nombre:Jocsan1
+Tiempo: 10
+Puntaje: 100
+
+
+Nombre:Jocsan2
+Tiempo: 230
+Puntaje: 233
+
+
+Nombre:Jocsan3
+Tiempo: 45
+Puntaje: 43
+
+
+Nombre:Jocsan4
+Tiempo: 11
+Puntaje: 133
+
+
+Nombre:Jocsan5
+Tiempo: 100
+Puntaje: 100
+
+
+Nombre:JOcsan6
+Tiempo: 57
+Puntaje: 10
+
+
+Nombre:JOcsan7
+Tiempo: 39
+Puntaje: 35
+
+
+Nombre:JocsanP
+Tiempo: 9
+Puntaje: 10
+
+
+Nombre:JocsanProyecto
+Tiempo: 26
+Puntaje: 60
+
+
